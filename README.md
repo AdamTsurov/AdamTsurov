@@ -4,6 +4,8 @@
 <ul><br>
 <li>𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 𝘌𝘚6</li> 
 <li>𝘏𝘛𝘔𝘓, 𝘊𝘚𝘚</li>
+<li>SCSS</li>
+<li>Bootstrap</li>
 <li>𝘙𝘦𝘢𝘤𝘵, 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵</li>
 <li>𝘙𝘦𝘢𝘤𝘵/𝘙𝘦𝘥𝘶𝘹 Toolkit</li>
 <li>𝘙𝘦𝘢𝘤𝘵 𝘳𝘰𝘶𝘵𝘦𝘳 𝘥𝘰𝘮 𝘷6</li>
