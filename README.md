@@ -16,6 +16,7 @@
 <li>𝘕𝘰𝘥𝘦𝘑𝘚</li>
 <li>MomentJS</li>
 <li>Framer Motion</li>
+<li>fetch, axios</li>  
 </ul>
 <hr>
 <h3>𝘔𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴:<h3>
