@@ -12,7 +12,8 @@
 <li>𝘞𝘦𝘣𝘱𝘢𝘤𝘬</li>
 <li>𝘔𝘰𝘯𝘨𝘰𝘋𝘉</li>
 <li>𝘔𝘰𝘯𝘨𝘰ose</li>  
-<li>𝘌𝘹𝘱𝘳𝘦𝘴𝘴𝘑𝘚, Cors, Morgan, Multer, 𝘕𝘰𝘥𝘦𝘑𝘚, 𝘔𝘰𝘯𝘨𝘰𝘰𝘴𝘦</li>
+<li>𝘌𝘹𝘱𝘳𝘦𝘴𝘴𝘑𝘚, Cors, Morgan, Multer</li>
+<li>𝘕𝘰𝘥𝘦𝘑𝘚</li>
 <li>MomentJS</li>
 <li>Framer Motion</li>
 </ul>
