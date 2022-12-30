@@ -6,7 +6,7 @@
 <li>𝘏𝘛𝘔𝘓, 𝘊𝘚𝘚</li>
 <li>SCSS</li>
 <li>Bootstrap</li>
-<li>𝘙𝘦𝘢𝘤𝘵, 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵</li>
+<li>React, TypeScript</li>
 <li>𝘙𝘦𝘢𝘤𝘵/𝘙𝘦𝘥𝘶𝘹 Toolkit</li>
 <li>𝘙𝘦𝘢𝘤𝘵 𝘳𝘰𝘶𝘵𝘦𝘳 𝘥𝘰𝘮 𝘷6</li>
 <li>𝘞𝘦𝘣𝘱𝘢𝘤𝘬</li>
