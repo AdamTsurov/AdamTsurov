@@ -20,4 +20,3 @@
 <li>fetch, axios</li>  
 </ul>
 <hr>
-<h3>𝘔𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴:<h3>
