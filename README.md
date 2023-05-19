@@ -3,7 +3,6 @@
 <h3>𝘛𝘩𝘦 𝘴𝘵𝘢𝘤𝘬 𝘰𝘧 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴 𝘐 𝘸𝘰𝘳𝘬 𝘸𝘪𝘵𝘩:<h3>
 <ul><br>
 <li>𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 𝘌𝘚6</li> 
-<li>TypeScript</li>
 <li>𝘏𝘛𝘔𝘓, 𝘊𝘚𝘚</li>
 <li>SCSS</li>
 <li>Bootstrap</li>
