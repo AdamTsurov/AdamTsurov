@@ -14,7 +14,7 @@
 <li>MongoDB</li>
 <li>Mongoose</li>  
 <li>ExpressJS</li>
-<li>Nest</li>
+<li>NestJS</li>
 <li>NodeJS</li>
 <li>MomentJS</li>
 <li>Framer Motion</li>
