@@ -11,6 +11,7 @@
 <li>React/Redux Toolkit</li>
 <li>React router dom</li>
 <li>Webpack</li>
+<li>Vite</li>
 <li>MongoDB</li>
 <li>Mongoose</li>  
 <li>ExpressJS</li>
@@ -18,6 +19,7 @@
 <li>NodeJS</li>
 <li>MomentJS</li>
 <li>Framer Motion</li>
+<li>React hook form</li>
 <li>fetch, axios</li>  
 </ul>
 <hr>
