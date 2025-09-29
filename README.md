@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>𝘛𝘩𝘦 𝘴𝘵𝘢𝘤𝘬 𝘰𝘧 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴 𝘐 𝘸𝘰𝘳𝘬 𝘸𝘪𝘵𝘩:<h3>
 <ul><br>
-<li>JavaScript ES6</li> 
+<li>JavaScript</li> 
 <li>TypeScript</li> 
 <li>HTML, CSS</li>
 <li>SCSS</li>
