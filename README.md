@@ -18,7 +18,6 @@
 <li>NextJS</li>
 <li>NestJS</li>
 <li>NodeJS</li>
-<li>MomentJS</li>
 <li>Framer Motion</li>
 <li>React hook form</li>
 <li>fetch, axios</li>  
