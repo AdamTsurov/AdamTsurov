@@ -38,6 +38,6 @@
 <div align="center">
 
 [![telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/AdamTsurov)
-![Gmail](https://img.shields.io/badge/Gmai.com-adamtsurov123@gmail.com-blue?style=flat&logo=gmail)
+![Gmail](https://img.shields.io/badge/gmai.com-adamtsurov123@gmail.com-blue?style=flat&logo=gmail)
 
 </div>
