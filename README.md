@@ -23,3 +23,21 @@
 <li>fetch, axios</li>  
 </ul>
 <hr>
+
+<br/>  
+<div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center; ">
+  <img style="display: flex; align-items:center; " src="https://www.codewars.com/users/BlackSider/badges/large" width="600" />
+</div>
+<br/>  
+
+<br/>  
+
+
+---
+## Contacts:
+<div align="center">
+
+[![telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/AdamTsurov)
+![Gmail](https://img.shields.io/badge/Gmai.com-adamtsurov123@gmail.com-blue?style=flat&logo=gmail)
+
+</div>
