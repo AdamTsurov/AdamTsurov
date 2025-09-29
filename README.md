@@ -8,13 +8,14 @@
 <li>SCSS</li>
 <li>Bootstrap</li>
 <li>React</li>
-<li>React/Redux Toolkit</li>
+<li>Redux/Redux Toolkit</li>
 <li>React router dom</li>
 <li>Webpack</li>
 <li>Vite</li>
 <li>MongoDB</li>
 <li>Mongoose</li>  
 <li>ExpressJS</li>
+<li>NextJS</li>
 <li>NestJS</li>
 <li>NodeJS</li>
 <li>MomentJS</li>
