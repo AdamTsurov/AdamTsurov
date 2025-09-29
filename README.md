@@ -9,7 +9,7 @@
 <li>Bootstrap</li>
 <li>React</li>
 <li>React/Redux Toolkit</li>
-<li>React router dom v6</li>
+<li>React router dom</li>
 <li>Webpack</li>
 <li>MongoDB</li>
 <li>Mongoose</li>  
